@@ -8,7 +8,7 @@ This package is still in alpha development and the estimators have not been rigo
 
 As this package is still in its alpha phase, variable names, function names, and function inputs can still change without ensuring backward-compatibility.
 
-This is the first time I am creating a package. I am grateful for any input.
+This is the first time I am creating a package. I am grateful for any input. My e-mail address is `jan.ringling@econ.uzh.ch`
 
 ## Currently supported estimators
 The package currently provides functions for the following estimators It calculates the coefficients and a heteroskedasticity-consistent variance-covariance matrix. Currently, no estimators permit any autocorrelation in the error term (i.e. also not clustered observations). 
