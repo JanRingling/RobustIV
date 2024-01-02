@@ -1,0 +1,17 @@
+Package: RobustIV
+Type: Package
+Title: Robust Instrumental Variable Estimation and Inference
+Version: 0.1.0
+Author: Jan Ringling
+Maintainer: Jan Ringling <jan.ringling@econ.uzh.ch>
+Description: Provides multiple estimators that are useful when there are weak and / or many instruments.
+    Also provides a number of additional inference methods that are robust to weak instruments.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: Matrix, Formula, Rdpack
+RdMacros: Rdpack
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
